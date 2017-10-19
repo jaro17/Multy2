@@ -1,0 +1,159 @@
+body {
+  background-color: #ffffff;
+}
+
+
+.navigation {
+  background-color: #ffffff;
+
+}
+
+.navbar.navbar-default.navbar-static-top {
+    border: 0;
+
+    box-shadow: none;
+}
+
+.navbar-header a {
+  font-size: 30px;
+  padding-top: 27px;
+}
+
+.navbar-header span {
+  color: #ED502E;
+}
+
+ .nav .navbar-nav ul{
+  float-right;
+}
+
+.menu li a {
+  margin: 0 40px;
+  text-transform: uppercase;
+
+}
+
+.menu span {
+  color: #ED502E;
+}
+
+.nav a:hover {
+  color: #ED502E !important;
+}
+
+.providing .text-center {
+  margin-top: 56px;
+}
+
+.box {
+  text-align: center;
+  margin-top: 47px;
+}
+
+.box h4 {
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+
+.box .row i {
+  color: #ED502E;
+}
+
+.main_features {
+  margin-top: 70px;
+}
+
+.media .media-left {
+  color: #ED502E;
+}
+
+.easily {
+  background-color: #ED502E;
+  padding-top: 47px;
+  padding-bottom: 64px;
+  color: #ffffff;
+  line-height: 300%;
+  margin-top: 70px;
+}
+
+.easily button {
+  border-radius: 14px;
+}
+
+.about_us {
+  margin-top: 60px;
+}
+
+.person_img {
+  margin-top: 60px;
+}
+
+footer {
+  background: #544e4e;
+  color:  #ffffff;
+  padding-top: 40px;
+  margin-top: 40px;
+  padding-bottom: 40px;
+}
+
+
+ footer ul.social {
+  list-style: none;
+
+}
+ footer ul.social li {
+   display: inline;
+   margin: 0 20px 0 20px;
+ }
+
+ footer ul.social li a:hover {
+   color: #ED502E;
+ }
+
+ footer ul.recent {
+  list-style: none;
+ }
+
+ footer ul.recent li:hover {
+   color: #ED502E;
+ }
+
+ footer ul.contact {
+   list-style: none;
+ }
+
+ footer ul.contact li:hover {
+   color: #ED502E;
+ }
+
+.sub_footer {
+  color: #ffffff;
+  background: #020202;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.sub_footer ul.home {
+  list-style: none;
+}
+
+.sub_footer ul.home li {
+  display: inline;
+  margin: 0 20px 0 20px;
+}
+
+.sub_footer ul.home li a:hover {
+  color: #ED502E;
+}
+
+.sub_footer ul.home li a {
+  text-decoration: none;
+}
+
+.sub_footer .multi_th a {
+  text-decoration: none;
+}
+
+.sub_footer .multi_th a:hover {
+  color: #ED502E;
+}
